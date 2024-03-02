@@ -13,7 +13,8 @@ public class Cartelera extends javax.swing.JFrame {
     /**
      * Creates new form Cartelera
      */
-    public Cartelera() {
+    public Cartelera() {// esta vaina es el conatructor
+        
         initComponents();
     }
 
